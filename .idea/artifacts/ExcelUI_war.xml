@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ExcelUI:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ExcelUI.war">
+      <element id="artifact" artifact-name="ExcelUI:war exploded" />
+    </root>
+  </artifact>
+</component>
