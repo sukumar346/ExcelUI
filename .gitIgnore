@@ -1,14 +1,8 @@
-
-	.DS_Store
-	.classpath
-	.idea/
-	.project
-	.settings/
-	WebContent/
-	
-
-
-
+.DS_Store
+.classpath
+.idea/
+.project
+.settings/
 ExcelUI.iml
 target
 
